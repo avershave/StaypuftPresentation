@@ -671,7 +671,7 @@ html {
       grid-area: title; }
     .reveal .slides section.title .description {
       background-image: url("../../lib/GHOSTS/Software_Engineering_Institute_Unitmark_Red_and_Black.png");
-      background-size: auto 26%;
+      background-size: auto 62%;
       background-repeat: no-repeat;
       grid-area: description;
       margin-top: 0.5em; } }
