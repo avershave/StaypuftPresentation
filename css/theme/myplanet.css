@@ -445,7 +445,7 @@ html {
     .reveal.pattern--waterfall .slides section.intro .logo {
       background-image: url("../../lib/GHOSTS/ghosts_yeehaw.png"); }
   .reveal.pattern--waterfall .slides section.title {
-    background-color: #0D7D7F; }
+    background-color: #3c3f3f; }
   .reveal.pattern--waterfall .progress {
     color: #0D7D7F; }
   .reveal.pattern--waterfall .controls {
@@ -458,7 +458,7 @@ html {
     .reveal.pattern--GHOSTS .slides section.intro .logo {
       background-image: url("../../lib/GHOSTS/ghosts_yeehaw.png"); }
   .reveal.pattern--GHOSTS .slides section.title {
-    background-color: #005d5e94; }
+    background-color: #0028559d; }
   .reveal.pattern--GHOSTS .progress {
     color: #0D7D7F; }
   .reveal.pattern--GHOSTS .controls {
@@ -487,7 +487,7 @@ html {
   background-color: #9292A8;
   color: #FFFFFF; }
   .reveal .slides section.color--ice .logo {
-    background-image: url("../../lib/GHOSTS/ghosts_yeehaw.png"); }
+    background-image: url("../../lib/GHOSTS/Software_Engineering_Institute_Unitmark_Red_and_Black.png"); }
 
 .reveal .slides section.color--light {
   background-color: #FFFFFF;
