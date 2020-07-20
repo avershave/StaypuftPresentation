@@ -576,13 +576,11 @@ html {
     display: flex;
     grid-area: header; }
   .reveal .slides section .logo {
-    background-image: url("../../lib/GHOSTS/SEI_Software_Engineering_Institute.png");
+    background-image: url("../../lib/GHOSTS/Software_Engineering_Institute_Unitmark_Red_and_Black.png");
     background-repeat: no-repeat;
-    background-size: auto 100%;
+    background-size: auto 50%;
     display: inline-block;
-    height: 8vmin;
-    margin-right: 4.5vmin;
-    width: 24vmin; }
+    height: 8vmin;}
   .reveal .slides section .section {
     text-transform: uppercase;
     line-height: 4.5vmin;
@@ -672,6 +670,9 @@ html {
     .reveal .slides section.title h1 {
       grid-area: title; }
     .reveal .slides section.title .description {
+      background-image: url("../../lib/GHOSTS/Software_Engineering_Institute_Unitmark_Red_and_Black.png");
+      background-size: auto 26%;
+      background-repeat: no-repeat;
       grid-area: description;
       margin-top: 0.5em; } }
 
