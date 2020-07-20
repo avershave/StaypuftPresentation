@@ -292,7 +292,8 @@ html {
 
 .reveal[class*="pattern--"] {
   background-position: center center;
-  background-size: 133vmax auto; }
+  background-repeat: no-repeat;
+  background-size: auto; }
 
 .reveal.pattern--hills {
   background-image: url("../../lib/myplanet/patterns/hills/pattern.svg"); }
@@ -451,13 +452,13 @@ html {
     color: #0D7D7F; }
 
 .reveal.pattern--GHOSTS {
-  background-image: url("../../lib/GHOSTS/ghosts-logo.jpg"); }
+  background-image: url("../../lib/GHOSTS/ghosts_notext.png"); }
   .reveal.pattern--GHOSTS .slides section.intro {
     background-color: #DEF9F6; }
     .reveal.pattern--GHOSTS .slides section.intro .logo {
       background-image: url("../../lib/GHOSTS/ghosts_yeehaw.png"); }
   .reveal.pattern--GHOSTS .slides section.title {
-    background-color: #005c5e; }
+    background-color: #005d5e94; }
   .reveal.pattern--GHOSTS .progress {
     color: #0D7D7F; }
   .reveal.pattern--GHOSTS .controls {
